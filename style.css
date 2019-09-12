@@ -1,11 +1,24 @@
 /*style.css*/
 
+body {
+	background: lightblue;
+}
+
 p {
-	color: rgb(100, o, 100));
+	color: blue;
 }
 
-li {
-	color: lightblue;
+li.pets {
+	color: pink;
 }
 
+li.pets:hover {
+	background: white;
+}
+
+div.pets {
+	float: left;
+	background: lightpink;
+	margin: 0px;
+}
 
