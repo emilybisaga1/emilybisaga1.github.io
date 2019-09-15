@@ -23,18 +23,42 @@ div.pets {
 	width: 400px;
 }
 
-div.qs {
-	float:left;
-	color:darkblue;
+div.name {
+	color:red;
 	background:white;
-	margin:0px;
 	width:400px;
 }
 
-div.story {
-	float:left;
-	color:darkblue;
+div.age {
+	color:orange;
 	background:white;
-	margin: 400px;
 	width: 400px;
 }
+
+div.origin {
+        color:yellow;
+        background:white;
+        width: 400px;
+}
+
+div.trait {
+        color:green;
+        background:white;
+        width: 400px;
+}
+
+div.hobbies{
+        color:blue;
+        background:white;
+        width: 400px;
+}
+
+
+div.fav{
+        color:purple;
+        background:white;
+        width: 400px;
+}
+
+
+
