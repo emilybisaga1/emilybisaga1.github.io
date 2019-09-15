@@ -9,7 +9,7 @@ p {
 }
 
 li.pets {
-	color: pink;
+	color: darkblue;
 }
 
 li.pets:hover {
@@ -23,3 +23,18 @@ div.pets {
 	width: 400px;
 }
 
+div.qs {
+	float:left;
+	color:darkblue;
+	background:white;
+	margin:0px;
+	width:400px;
+}
+
+div.story {
+	float:left;
+	color:darkblue;
+	background:white;
+	margin: 400px;
+	width: 400px;
+}
