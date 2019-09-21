@@ -3,7 +3,9 @@
 body {
 	background: lightblue;
 }
-
+a {
+	color:red;
+}
 p {
 	color: blue;
 }
@@ -62,6 +64,8 @@ p.fav{
 
 @media only screen and (max-width: 600px) {
 	body {
-		background-color: lightblue;
+		background-color: pink;
 	}
 }
+
+
