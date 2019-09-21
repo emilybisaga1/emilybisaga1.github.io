@@ -23,38 +23,38 @@ div.pets {
 	width: 400px;
 }
 
-.name {
+p.name {
 	color:red;
 	background:white;
 	width:400px;
 }
 
-.age {
+p.age {
 	color:orange;
 	background:white;
 	width: 400px;
 }
 
-.origin {
+p.origin {
         color:yellow;
         background:white;
         width: 400px;
 }
 
-.trait {
+p.trait {
         color:green;
         background:white;
         width: 400px;
 }
 
-.hobbies{
+p.hobbies{
         color:blue;
         background:white;
         width: 400px;
 }
 
 
-.fav{
+p.fav{
         color:purple;
         background:white;
         width: 400px;
