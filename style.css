@@ -23,12 +23,16 @@ div.pets {
 	background: lightpink;
 	margin: 0px;
 	width: 400px;
+	height 400px;
 }
+
+
 
 .name {
 	color:black;
 	background:red;
 	width:400px;
+	float: right;
 	text-align: right;
 }
 
@@ -36,6 +40,7 @@ div.pets {
 	color:black;
 	background:orange;
 	width: 400px;
+	float: left;
 	text-align: left;
 }
 
@@ -70,7 +75,7 @@ div.pets {
 
 @media only screen and (max-width: 600px) {
 	body {
-		background-color: pink;
+		background-color: white;
 	}
 }
 
