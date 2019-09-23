@@ -74,7 +74,7 @@ li.pets:hover {
     margin:0px;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1000px) {
 	body {
 		background-color: white;
 	}
