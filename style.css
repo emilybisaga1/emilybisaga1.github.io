@@ -29,35 +29,35 @@ div.pets {
 	color:black;
 	background:red;
 	width:400px;
-	align: right;
+	text-align: right;
 }
 
 .age {
 	color:black;
 	background:orange;
 	width: 400px;
-	align: left;
+	text-align: left;
 }
 
 .origin {
         color:black;
         background:yellow;
         width: 400px;
-	align: right;
+	text-align: right;
 }
 
 .trait {
         color:black;
         background:green;
         width: 400px;
-	align: left;
+	text-align: left;
 }
 
 .hobbies{
         color:black;
         background:blue;
         width: 400px;
-	align: right;
+	text-align: right;
 }
 
 
@@ -65,7 +65,7 @@ div.pets {
         color:black;
         background:purple;
         width: 400px;
-	align: left;
+	text-align: left;
 }
 
 @media only screen and (max-width: 600px) {
