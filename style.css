@@ -11,10 +11,7 @@ p {
 }
 
 li.pets {
-	color: darkblue;
-	float: left;
 	background: lightpink;
-	margin:fixed;
 	width: 800px;
 	height: 50px;
 }
@@ -23,9 +20,9 @@ li.pets:hover {
 	background: white;
 }
 
-
 .info {
-	padding-top: 500px;
+	padding-top: 400px;
+	padding-bottom: 0px;
 }
 
 .name {
